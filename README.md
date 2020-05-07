@@ -14,6 +14,8 @@ For kmeans, type "kmeans".
 For fuzzy c means, type "fuzzy c means".
 For GMM, type "gmm".
 For DBSCAN, type "dbscan".
-For spectral clustering, type "spectral".
+For spectral clustering, type "spectral clustering".
 
 Be sure to use lower-case letters only in all your requests.
+
+Besides those two main function files we have two auxilliary functions: one is called frauds_wrt_time.py, which creates a histogram of the frauds as a function of the time. The other is called fcmeans.py, and it is an implementation of the fuzzy c means algorithm.
