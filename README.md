@@ -15,6 +15,7 @@ For fuzzy c means, type "fuzzy c means".
 For GMM, type "gmm".
 For DBSCAN, type "dbscan".
 For spectral clustering, type "spectral clustering".
+For our statistical tests (proving our f-1 scores are better than random), type "p-value". This randomizes labels and prints f-1 scores for all algorithms.
 
 Be sure to use lower-case letters only in all your requests.
 
