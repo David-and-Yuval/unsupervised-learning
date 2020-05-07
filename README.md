@@ -22,4 +22,5 @@ Be sure to use lower-case letters only in all your requests.
 Besides those two main function files we have two auxilliary functions: one is called frauds_wrt_time.py, which creates a histogram of the frauds as a function of the time. The other is called fcmeans.py, and it is an implementation of the fuzzy c means algorithm.
 
 The file Report.pdf describes the entire work: the data analysis, the clustering process and the colclusions of the insights we made.
-The file Correlations_of_positive_data.xlsx describes the matrix of correlation coefficein
+The file Correlations_of_positive_data.xlsx describes the matrix of correlation coefficients between features on the fraud data. This matrix was too large to fit in the report itself.
+Finally, we have plots of the clustering algorithms' results.
