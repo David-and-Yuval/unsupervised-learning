@@ -20,3 +20,5 @@ For our statistical tests (proving our f-1 scores are better than random), type 
 Be sure to use lower-case letters only in all your requests.
 
 Besides those two main function files we have two auxilliary functions: one is called frauds_wrt_time.py, which creates a histogram of the frauds as a function of the time. The other is called fcmeans.py, and it is an implementation of the fuzzy c means algorithm.
+
+Finally, the file Report.pdf describes the entire work: the data analysis, the clustering process and the colclusions of the insights we made.
